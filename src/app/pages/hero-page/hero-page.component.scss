@@ -1,0 +1,23 @@
+.hero-page-container {
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 10rem;
+    transform: translate(-50%);
+    padding: 20px;
+    font-weight: 400;
+    font-size: 18px;
+
+    .hero-avatar-container {
+        height: 5rem;
+        width: 5rem;
+        background-color: grey;
+        margin-left: 50%;
+        transform: translate(-50%);
+        border-radius: 100%;
+
+        .hero-avatar {
+            width: 5rem;
+        }
+    }
+}

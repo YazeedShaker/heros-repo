@@ -1,0 +1,9 @@
+<tr>
+    <td (click)="goToHeroPage(hero)" class="hero-name">{{hero.name | titlecase }}</td>
+    <td>{{hero.power | titlecase }}</td>
+    <td>
+        <star-rating value="{{hero.rate}}" checkedcolor="red" uncheckedcolor="black" size="24px" readonly="false"
+            (rate)="onRate($event)">
+        </star-rating>
+    </td>
+</tr>

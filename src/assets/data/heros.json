@@ -1,0 +1,32 @@
+{
+    "heros": [
+        {
+            "name": "superman",
+            "power": "killing batman",
+            "description": "Superman was created by American writer Jerry Siegel and Canadian-born American artist Joe Shuster in 1933. Contrary to his current incarnation, he first appeared as a bald, telepathic villain bent on dominating the world. He was called 'Super-Man' in the short science fiction fanzine 'The Reign of the Super-Man' which was published by the duo in 1933. Siegel and Shuster decided to re-write the character as a hero and took out the hyphen, renaming him Superman and re-imagining him with no resemblance to his earlier incarnation.",
+            "rate": 4,
+            "avatar": "https://icons-for-free.com/iconfiles/png/512/man+saver+super+superhero+superman+icon-1320195496238765624.png"
+        },
+        {
+            "name": "batman",
+            "power": "dies from superman",
+            "description": "Batman, one of the most influential comic book characters to be penned, was created by artist Bob Kane and writer Bill Finger, though Kane, who designed the character, often receives credit as the sole creator. After the success of Superman in early 1939, DC Comics started requesting more superheroes for its titles. Bob Kane had an idea for a character called 'Bat-Man.' There is a large controversy that suggests Kane came up with a 'Birdman' and Finger is the one who actually suggested the name 'Bat-man.' The character's alter-ego's name was influenced by the names of the Scottish patriot Robert the Bruce and revolutionary U.S. Brigadier General Mad Anthony Wayne (who, in the comics, is an ancestor of Bruce). For the character's costume, Kane drew inspiration from a flying device designed by Leonardo da Vinci: the ornithopter, a glider that had bat-like wings.",
+            "rate": 3,
+            "avatar": "https://icons-for-free.com/iconfiles/png/512/batman+hero+man+saver+super+superhero+icon-1320195495753243967.png"
+        },
+        {
+            "name": "spiderman",
+            "power": "watches superman killing batman",
+            "description": "In 1962, Marvel Comics editor and head writer Stan Lee was looking for a new superhero idea. He decided to create Spider-Man as a character with whom teens could identify, as there was a recent surge in teenage demand for comics. Lee was supposedly inspired for the concept of Spider-Man after observing a spider climb up a wall. Lee had to convince publisher Martin Goodman to introduce Spider-Man in the last issue of the canceled series Amazing Adult Fantasy, which was renamed Amazing Fantasy for that issue (#15, Aug. 1962). Lee then approached legendary artist Jack Kirby for an initial character design. However Lee was dissatisfied with Kirby’s attempt as the character turned out to be too heroic and Spider-Man was supposed to be a teenage boy. Lee then turned to Steve Ditko who developed the now iconic look of Spider-Man.",
+            "rate": 2,
+            "avatar": "https://icons-for-free.com/iconfiles/png/512/man+saver+spider+spiderman+super+superhero+icon-1320195497035393176.png"
+        },
+        {
+            "name": "wonderwoman",
+            "power": "she is the only female in this list",
+            "description": "Wonder Woman’s appearance in the early golden age of comics made her the first prominent female superheroine. The psychologist William Moulton Marston created Wonder Woman somewhat as a counter reaction to the presence of prominent male superheroes (at this time Superman, Batman and Captain America), as well as a counterbalance to the 'blood curdling masculinity' that was dominant at the time, with the hopes that the character could serve as an inspiration for young children (though in certain ways it was geared more towards female readers.) Marston had been partially motivated to create this character because of the accomplishments of his own wife, who was also an accomplished academic at a time when it was difficult for women to fulfill this role. As a result, the first Wonder Woman series contained many complementary articles and features which sought to highlight the inner power of women. There were articles for instance on the different career paths that women could pursue (according to the standards of the 1940s) as well as a series of stories on famous and accomplished women, called the Wonder Women of History. Marston introduced the character in All-Star Comics #8 in 1941. She became the lead character in Sensation Comics in 1941, and got her first solo book in 1942.",
+            "rate": 5,
+            "avatar": "https://icons-for-free.com/iconfiles/png/512/hero+saver+super+superhero+woman+wonder+icon-1320195496392567406.png"
+        }
+    ]
+}

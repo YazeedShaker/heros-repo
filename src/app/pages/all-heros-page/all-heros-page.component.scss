@@ -1,0 +1,50 @@
+.all-heros-page-container {
+    margin-top: 2%;
+    margin-left: 50%;
+    transform: translate(-50%);
+
+    .search-input {
+        padding: 5px;
+    }
+
+    .search-input:focus {
+        outline: none !important;
+        border: 2px solid #BE90D4;
+    }
+
+    .sorting-switch-span-power {
+        margin-left: 20rem;
+    }
+
+    .sorting-switch {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .sorting-switch-span-name {
+        margin-left: 1rem;
+    }
+
+    .table,
+    td,
+    th {
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+
+    table {
+        margin-top: 5%;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th,
+    td {
+        padding: 15px;
+    }
+
+    .heros-row {
+        vertical-align: middle;
+        display: contents;
+    }
+}

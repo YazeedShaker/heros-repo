@@ -1,0 +1,14 @@
+<div class="all-heros-page-container">
+    <input placeholder="Search" class="search-input" #searchInput type="text" [(ngModel)]="searchText">
+    <span class="sorting-switch-span-power">Sort By Power</span>
+    <ui-switch class="sorting-switch" [checked]="false" (change)="onChangeSortField($event)"></ui-switch>
+    <span class="sorting-switch-span-name">Sort By Name</span>
+    <table>
+        <tr>
+            <th>Hero Name</th>
+            <th>Powers</th>
+            <th>Rate</th>
+        </tr>
+        <app-table class="heros-row" *ngFor="let hero of heros | filter: searchText" [hero]="hero"></app-table>
+    </table>
+</div>

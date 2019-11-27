@@ -8,10 +8,10 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class HeroPageComponent implements OnInit {
 
-  private heroName;
-  private heroPower;
-  private heroDescription;
-  private heroAvatar;
+  heroName: String;
+  heroPower: String;
+  heroDescription: String;
+  heroAvatar: String;
 
   constructor(private activatedRoute: ActivatedRoute) {
     this.heroName = this.activatedRoute.snapshot.paramMap.get('name');

@@ -9,8 +9,8 @@ import { AllHerosPageService } from '../services/all-heros-page.service';
 })
 export class AllHerosPageComponent implements OnInit, AfterViewInit {
   @ViewChild('searchInput', { static: false }) searchInutElementRef: ElementRef;
-  protected searchText: String;
-  protected heros = [];
+  searchText: String;
+  heros = [];
   constructor(private allHerosPageService: AllHerosPageService, private loadingService: LoadingService) { }
 
   onChangeSortField(event) {
